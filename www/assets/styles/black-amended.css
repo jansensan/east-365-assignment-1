@@ -1,0 +1,11 @@
+.reveal small.baseline {
+  vertical-align: baseline;
+}
+
+.reveal small *.baseline {
+  vertical-align: baseline;
+}
+
+.reveal .inline-block {
+  display: inline-block;
+}
